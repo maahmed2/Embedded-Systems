@@ -20,7 +20,7 @@ This repository contains both lab materials and code examples for all the Electr
 1. [Glossary](glossary/README.md)
 
 ---
-
+Muhammad AL-Amin Ahmed
 
 
 
